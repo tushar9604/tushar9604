@@ -14,35 +14,35 @@ Designed, developed and Deployed Integration projects using Mulesoft Anypoint Ru
 
 API development experience with wide range of languages and frameworks including Python, Django, Flask, Java, Spring Framework, Node JS. 
 
-Technical Skills:
-● Mulesoft Anypoint Studio, API Manager, Runtime Manager, Design Center, Mulesoft Composer, Mulesoft RPA,
-● Mule Runtime 3 and 4, Dataweave 1 and 2, RAML, MUnit, ObjectStore, Maven, Batch Processing
-● REST and SOAP APIs, API Design, Development, Testing, Deployment and Management, Postman
-● Salesforce Admin, Salesforce App Builder, Apex, LWC, Visualforce, Aura, SOQL, SOSL,
-● JavaScript, Java, Python, C++, Django, Flask, NodeJs, HTML, CSS
-● AWS, Azure, GCP, Git, linux, Shell Scripting, CI/CD and DevOps, Scrum, Kanban, Agile Development
-● Machine Learning, Data Analysis, Data Science, Deep Learning, Numpy, Pandas, Scikit Learn, TensorFlow, Pytorch, Keras, Tableau, Power BI, MS Excel , SQL
-● BlockChain, Ethereum, Hyperledger Fabric, Solidity, React
+<b>Technical Skills:</b>
+- Mulesoft Anypoint Studio, API Manager, Runtime Manager, Design Center, Mulesoft Composer, Mulesoft RPA,
+- Mule Runtime 3 and 4, Dataweave 1 and 2, RAML, MUnit, ObjectStore, Maven, Batch Processing
+- REST and SOAP APIs, API Design, Development, Testing, Deployment and Management, Postman
+- Salesforce Admin, Salesforce App Builder, Apex, LWC, Visualforce, Aura, SOQL, SOSL,
+- JavaScript, Java, Python, C++, Django, Flask, NodeJs, HTML, CSS
+- AWS, Azure, GCP, Git, linux, Shell Scripting, CI/CD and DevOps, Scrum, Kanban, Agile Development
+- Machine Learning, Data Analysis, Data Science, Deep Learning, Numpy, Pandas, Scikit Learn, TensorFlow, Pytorch, Keras, Tableau, Power BI, MS Excel , SQL
+- BlockChain, Ethereum, Hyperledger Fabric, Solidity, React
 
-Certifications
-● Certified MuleSoft Certified Developer - Level 1
-● Certified Salesforce Certified Administrator
-● Certified Salesforce Certified Platform App Builder
-● Certified Agile Scrum Master
-● Certified DevOps Practitioner
-● Masters in DataScience from Simplilearn
-● Business Analytics Masters from Simplilearn
+<b>Certifications</b>
+- Certified MuleSoft Certified Developer - Level 1
+- Certified Salesforce Certified Administrator
+- Certified Salesforce Certified Platform App Builder
+- Certified Agile Scrum Master
+- Certified DevOps Practitioner
+- Masters in DataScience from Simplilearn
+- Business Analytics Masters from Simplilearn
 
- Achievements:
-● Double Start Ranger on Trailhead
-● 5 star coder in Python on HackerRank
-● 5 star coder in Java on HackerRank
-● 5 star coder in C++ on HackerRank
+<b>Achievements:</b>
+- Double Start Ranger on Trailhead
+- 5 star coder in Python on HackerRank
+- 5 star coder in Java on HackerRank
+- 5 star coder in C++ on HackerRank
 
-Websites:
-Salesforce Trailhead & Certifications: https://trailblazer.me/id/tsharma271
-Hackerrank: https://www.hackerrank.com/tushar9604?hr_r=1
-Github: https://github.com/tushar9604
-codechef: https://www.codechef.com/users/tushar9604
-leetcode: https://leetcode.com/tushar9604/
-kaggle: https://www.kaggle.com/tushar9604/account
+<b>Websites:</b>
+- linkedin: https://www.linkedin.com/in/tushar-sharma9604/
+- Salesforce Trailhead & Certifications: https://trailblazer.me/id/tsharma271
+- Hackerrank: https://www.hackerrank.com/tushar9604?hr_r=1
+- codechef: https://www.codechef.com/users/tushar9604
+- leetcode: https://leetcode.com/tushar9604/
+- kaggle: https://www.kaggle.com/tushar9604/account
